@@ -1,0 +1,8 @@
+<!-- ["Lerntypen"] -->
+# Hinweise zu deinem Ergebnis des  Lerntyp Tests
+
+1. Bitte beachte, dass die Fragen des Tests nicht durch eine wissenschaftliche Evaluation ausgewählt wurden. Dennoch halten wir sie für durchaus repräsentativ, um einen Eindruck des eigenen Lernverhaltens zu erhalten und vergangenes Lernverhalten zu reflektieren.
+2. Dein Ergebnis des Tests muss nicht unbedingt bedeuten, dass dieser Lerntyp endgültig deine Lernmethoden bestimmen soll, zumal es sich hierbei nur um eine Orientierung handeln soll, welcher Sinneskanals bei dir besonders gut für das Lernen ausgeprägt ist. Wir raten dir unbedingt auch andere Lernmethoden auszuprobieren. Vielleicht findest du eine Methode, die bei dir besonders effektiv wirkt, obwohl sie nicht unbedingt zu deinem Testergebnis passt. 
+3. Da der Test vor allem eigene Erfahrungen und Gewohnheiten abfragt, wäre es hilfreich, wenn du dir zusätzlich einmal Gedanken dazu machst, wie effektiv du dein vergangenes Lernverhalten einschätzen würdest.
+4. Erhältst du am Ende eine ähnliche Punkteverteilung bei mehreren Lerntypen, kann das dafür sprechen, dass du ein Mischlerntyp bist.
+5. **BITTE VERSUCHE NICHT ERST UNMITTELBAR VOR DER KLAUSUR EINE NEUE LERNMETHODEN AUSZUPROBIEREN.** Die Methoden sind zum Lernen an sich gedacht und viele Zielen auf längere Lernprozesse ab. Vor allem verstehendes Lernen steht hier im Vordergrund, da durch Verstehen die Informationen besser verankert bleiben, als beim Auswendiglernen.

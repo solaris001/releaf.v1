@@ -1,0 +1,286 @@
+{
+  "categories": [
+        "stress",
+        "time",
+        "focus",
+        "fitness"
+  ],
+  "questions": [
+    {
+      "prompt": "You're studying for an exam and find yourself getting distracted easily. What do you thing is the cause?",
+      "answers": [
+        {
+          "text": "Anything social media, working to long on small tasks, not knowing how to start. I get distracted easily",
+          "category": 2,
+          "points": 5
+        },
+        {
+          "text": "I keep checking my phone and social media, wasting valuable study time.",
+          "category": 1,
+          "points": 5
+        },
+        {
+          "text": "I am always hungry or feeling tired.",
+          "category": 3,
+          "points": 5
+        } 
+      ]
+    },
+    {
+      "prompt": "How often do you find yourself procrastinating on tasks?",
+      "answers": [
+        {
+          "text": "Never",
+          "category": 1,
+          "points": 1
+        },
+        {
+          "text": "Rarely",
+          "category": 1,
+          "points": 2
+        },
+        {
+          "text": "Sometimes",
+          "category": 1,
+          "points": 3
+        },
+        {
+          "text": "Often",
+          "category": 1,
+          "points": 4
+        },
+        {
+          "text": "Always",
+          "category": 1,
+          "points": 5
+        }
+      ]
+   },
+   {
+      "prompt": "You're feeling tired and sluggish during the day. What's your typical response?",
+      "answers": [
+        {
+          "text": "I push through the fatigue with unhealthy snacks and caffeine.",
+          "category": 0,
+          "points": 5
+        },
+        {
+          "text": "I try to power through my schedule despite feeling tired.",
+          "category": 1,
+          "points": 5
+        },
+        {
+          "text": "I know I should take a walk or a nap...",
+          "category": 3,
+          "points": 5
+        } 
+      ]
+    },
+    {
+      "prompt": "You are at the end of the semester: What situation can you identify with the most?",
+      "answers": [
+        {
+              "text": "I get overwehlemed by all the things I have to do.",
+              "category": 1,
+              "points": 5
+        },
+        {
+            "text": "All I do is study, while coffeein and sweets keep me going.",
+            "category": 3,
+            "points": 5
+        },
+        {
+              "text": "Exams are always a very tough time, because I do not know where to start.",
+              "category": 2,
+              "points": 5
+        },
+        {
+            "text": "All I do is study, sleep and eat.",
+            "category": 0,
+            "points": 5
+        }
+      ]
+    },
+    {
+      "prompt": "How often do you feel overwhelmed by stress?",
+      "answers": [
+        {
+          "text": "Never",
+          "category": 0,
+          "points": 1
+        },
+        {
+          "text": "Rarely",
+          "category": 0,
+          "points": 2
+        },
+        {
+          "text": "Sometimes",
+          "category": 0,
+          "points": 3
+        },
+        {
+          "text": "Often",
+          "category": 0,
+          "points": 4
+        },
+        {
+          "text": "Always",
+          "category": 0,
+          "points": 5
+        }
+      ]
+    },
+    {
+        "prompt": "How often do you find it difficult to focus on a task for an extended period of time?",
+        "answers": [
+        {
+          "text": "Never",
+          "category": 2,
+          "points": 1
+        },
+        {
+          "text": "Rarely",
+          "category": 2,
+          "points": 2
+        },
+        {
+          "text": "Sometimes",
+          "category": 2,
+          "points": 3
+        },
+        {
+          "text": "Often",
+          "category": 2,
+          "points": 4
+        },
+        {
+          "text": "Always",
+          "category": 2,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "prompt": "You're feeling overwhelmed with schoolwork and extracurricular activities. What do you do first?",
+      "answers": [
+        {
+          "text": "I will comfort eat, watch a series/play some games to distract me, go to a party all night.",
+          "category": 3,
+          "points": 5
+        },
+        {
+          "text": "I bottle up my feelings and try to power through everything, feeling increasingly stressed and anxious.",
+          "category": 0,
+          "points": 5
+        },
+        {
+          "text": "I try to do everything at once, feeling scattered and unproductive.",
+          "category": 1,
+          "points": 5
+        },
+        {
+          "text": "I struggle to concentrate on any task due to feeling overwhelmed.",
+          "category": 2,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "prompt": "How often do you get enough exercise?",
+      "answers": [
+        {
+          "text": "Never",
+          "category": 3,
+          "points": 1
+        },
+        {
+          "text": "Rarely",
+          "category": 3,
+          "points": 2
+        },
+        {
+          "text": "Sometimes",
+          "category": 3,
+          "points": 3
+        },
+        {
+          "text": "Often",
+          "category": 3,
+          "points": 4
+        },
+        {
+          "text": "Always",
+          "category": 3,
+          "points": 5
+        }
+      ]
+    },    
+    {
+      "prompt": "You have a big presentation to prepare. How do you plan to do it?",
+      "answers": [
+        {
+          "text": "I do not really plan. I do it when I find time for it.",
+          "category": 1,
+          "points": 5
+        },
+        {
+          "text": "I set it on my To-Do List, but I probably won't start befor it's almost to late.",
+          "category": 0,
+          "points": 5
+        },
+        {
+          "text": "I make some slides real quick and talk through them during the presentation.",
+          "category": 2,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "prompt": "It's the weekend, and you have a free day. How do you typically spend it?",
+      "answers": [
+        {
+          "text": "I spend most of the day catching up on schoolwork, feeling constantly pressured to be productive.",
+          "category": 0,
+          "points": 5
+        },
+        {
+          "text": "I try to fit in all the errands and social activities I neglected during the week, feeling overwhelmed by the to-do list.",
+          "category": 1,
+          "points": 5
+        },
+        {
+          "text": "I struggle to disconnect from schoolwork and find it hard to relax and enjoy my free time.",
+          "category": 2,
+          "points": 5
+        },
+        {
+          "text": "I know I should do some workout, or go outside, but I always have a hard time motivating myself.",
+          "category": 3,
+          "points": 5
+        }
+      ]
+    },
+    {
+      "prompt": "If you could change something in your life. What of the following statements do you agree with the most?",
+      "answers": [
+        {
+          "text": "Working out more, eating better.",
+          "category": 3, 
+          "points": 5
+        },
+        {
+          "text": "Feeling less anxious, and more confident.",
+          "category": 0, 
+          "points": 5
+        },
+        {
+          "text": "Knowing what is important.",
+          "category": 2, 
+          "points": 5
+        }
+      ]
+    }
+  ]
+}
+        
