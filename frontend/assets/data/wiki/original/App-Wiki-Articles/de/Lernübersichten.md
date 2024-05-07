@@ -1,0 +1,1 @@
+Kapitel zu Karteikarten, Zusammenfassungen, Mind/Concept Maps, und weiteren
